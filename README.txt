@@ -11,8 +11,9 @@ Every consept/topic is represented by a function, and those functions work toget
 This basic model is a step on the way for me to build a somehow completed statistical model 
 where it can be a good altarnative to the use of statistical libraries like stats.
 
-Regarding testing, the model is implemented on numeric data. 
-
-
-I followed the best practices of OOP.
 Further,  this model will be useful in building a series of some AI-algorithms from scratch by me.
+
+Obs. 
+-This model works fine, and tested on real-life data in mu other repos like "web crawler". 
+This is why I thought that there is no need to include testing in this repo.
+-I followed the best practices of OOP.
