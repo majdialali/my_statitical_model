@@ -1,9 +1,4 @@
 
-model's description:
-
-
-
-
 This project is a demonstration on my knowlegde in some fundemental topics of statistics like
 median, standard_diviation, quartiles, z_scores, and coefficient_of_variance, in additional to detecting outliers in data. 
 Every consept/topic is represented by a function, and those functions work together as a unit inside a class.
